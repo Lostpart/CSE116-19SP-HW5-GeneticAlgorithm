@@ -5,12 +5,6 @@
 > 如果提交的任何内容与其他学生提交的代码非常相似或**可以在网上找到**，则违反了本课程的学术诚信政策
 
 
-
-Please do not try to copy and paste this code and submit it directly to Autograder  
-请不要尝试复制粘贴本段代码然后直接提交到Autograder上
-
-
-
-## Homework Handout | 作业讲义
+## Homework Handout | 作业要求
 https://github.com/Lostpart/CSE116-19SP-HW5-GeneticAlgorithm/blob/master/Handout.pdf  
 Written by Jesse Hartloff
